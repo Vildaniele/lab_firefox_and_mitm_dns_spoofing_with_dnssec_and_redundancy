@@ -84,5 +84,5 @@ Traffic analysis is conducted via a containerized Wireshark instance. It allows 
 
 ## Credits
 This project is based on the educational materials from Roma Tre University (Computer Networks Research Group).
-- Course: Computer Networks Security - Roma Tre University
+- Course: Computer science engineering - Roma Tre University
 - Original Content: D. Villa
